@@ -7,13 +7,18 @@
 Este proyecto implementa una **solución integral de Business Intelligence (BI)** para analizar la **ejecución del gasto público en universidades públicas del Perú**, utilizando datos del **Ministerio de Economía y Finanzas (MEF)**.
 
 La solución cubre **todo el ciclo de vida del dato**, desde la preparación y modelado en **SQL Server**, hasta la visualización y análisis interactivo en **Power BI**, permitiendo evaluar indicadores clave como **PIA, PIM, Devengado, Girado y % de Avance de ejecución**.
-
+ ![image alt](https://github.com/ramirezdavidge/-Sistema-de-Inteligencia-de-Negocios-para-el-An-lisis-del-Gasto-P-blico-Universitario/blob/6ca46676d1d2a10a934507749b0861488a17cc7e/images/DASHBOARD%201.PNG)
+ ![image alt](https://github.com/ramirezdavidge/-Sistema-de-Inteligencia-de-Negocios-para-el-An-lisis-del-Gasto-P-blico-Universitario/blob/6ca46676d1d2a10a934507749b0861488a17cc7e/images/DASHBOARD2.PNG)
+ ![image alt](https://github.com/ramirezdavidge/-Sistema-de-Inteligencia-de-Negocios-para-el-An-lisis-del-Gasto-P-blico-Universitario/blob/6ca46676d1d2a10a934507749b0861488a17cc7e/images/DASHBOARD%203.PNG)
+ ![image alt](https://github.com/ramirezdavidge/-Sistema-de-Inteligencia-de-Negocios-para-el-An-lisis-del-Gasto-P-blico-Universitario/blob/6ca46676d1d2a10a934507749b0861488a17cc7e/images/DASHBOARD%204.PNG)
+ ![image alt](https://github.com/ramirezdavidge/-Sistema-de-Inteligencia-de-Negocios-para-el-An-lisis-del-Gasto-P-blico-Universitario/blob/6ca46676d1d2a10a934507749b0861488a17cc7e/images/DASHBOARD%205.PNG)
+ ![image alt](https://github.com/ramirezdavidge/-Sistema-de-Inteligencia-de-Negocios-para-el-An-lisis-del-Gasto-P-blico-Universitario/blob/6ca46676d1d2a10a934507749b0861488a17cc7e/images/DASHBOARD%206.PNG)
 ---
 
 ## 🏗️ Arquitectura de la Solución BI
 La arquitectura sigue un **enfoque clásico de Data Warehouse**, con separación clara por capas:
 
-IMAGEN
+ ![image alt](https://github.com/ramirezdavidge/-Sistema-de-Inteligencia-de-Negocios-para-el-An-lisis-del-Gasto-P-blico-Universitario/blob/6ca46676d1d2a10a934507749b0861488a17cc7e/images/MODELO_DATOS.PNG)
 
 ### Beneficios del diseño
 - Escalabilidad  
